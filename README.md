@@ -1,9 +1,9 @@
 # e222a4
 
 websties:
-- analismail.com
-- taissahert.com
+- http://analismail.com
+- http://taissahert.com
 
 emails:
 - teresabranco1900@analismail.com
-- robertchisholm2021@taissahert
+- robertchisholm2021@taissahert.com
